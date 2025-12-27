@@ -1,5 +1,5 @@
 # Web_style
-A simple web page style :)
+A simple web page style, so you need to change text, files and information acording to your personal needs.
 
 Insert text, header, title or contact information via places that read "Insert header/Insert text/Insert email ...
 
@@ -11,3 +11,4 @@ You may connect the page with a google form, that can work as a shop for custome
 
 You may change other settings if you wish, like image size or document language, you may also insert or remove aditional br to align text better.
  
+I hope that the style is useful :)
