@@ -14,7 +14,7 @@
 <div class="header"> 
 <nav>
    	<h5> 
-			<img src="Images/Menuicon.jpeg" width="60" height="auto"> Review </a>
+			<img src="Menuicon.jpeg" width="60" height="auto"> Review </a>
 		<ul>
 	<li> <a href="Main_page.html">Main page</a> </li>
 	<li> <a href="Insert link to google form">Buy</a> </li>
