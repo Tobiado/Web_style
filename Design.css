@@ -1,0 +1,230 @@
+h1 {
+text-align: center;
+font-family: Comic Sans MS, sans-serif;
+font-size: 107px;
+font-weight: bold;
+margin-top: -70px;
+}
+h5 {
+text-align: left;
+font-family: Comic Sans MS, sans-serif;
+font-size: 40px;
+font-weight: normal;
+}
+h5 img {
+align-items: center;
+vertical-align: middle;
+}
+h2 {
+text-align: left;
+margin-left: 40px;
+font-family: Comic Sans MS, sans-serif;
+font-size: 68px;
+font-weight: bold;
+}
+h3 {
+font-family: Comic Sans MS, sans-serif;
+font-size: 20px;
+font-weight: bold;
+}
+#Text1 {
+	font-family: Comic Sans MS, sans-serif;
+	font-size: 30px;
+	background-color: #FFD700;
+	padding: 20px;
+	border-radius: 30px;
+}
+.Information-product {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+	gap: 20px;
+	max-with: 1000px;
+	width: 90%;
+	margin: auto;
+}
+#Text2 {
+	font-family: Comic Sans MS, sans-serif;
+	font-size: 20px;
+	text-align: left;
+	background-color: #FFD700;
+	padding: 20px;
+	border-radius: 30px;
+	flex: 2;
+	max-width: 55%;
+}
+#Picture1 {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 60px;
+}
+#Picture2 {
+	place-self: center;
+	display: block;
+	padding: 20px;
+	border: 30px solid #FF2400;
+	border-radius: 30px;
+	flex: 1;
+	max-width: 40%;
+}
+.Description-product {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+	gap: 20px;
+	max-with: 1000px;
+	width: 90%;
+	margin: auto;
+}
+#Video1 {
+   border: 30px solid #FF2400;
+	place-self: center;
+   border-radius: 30px;
+   margin-top: 40px;
+   margin-left: auto;
+   margin-right: auto;
+	flex: 2;
+	max-width: 40%;
+}
+#Text3 {
+	font-family: Comic Sans MS, sans-serif;
+	font-size: 20px;
+	text-align: left;
+	background-color: #FFD700;
+	padding: 20px;
+	margin-top: 40px;
+	border-radius: 30px;
+	flex: 1;
+	max-width: 55%;
+}
+.History-product {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+	gap: 20px;
+	max-with: 1000px;
+	width: 90%;
+	margin: auto;
+}
+#Text4 {
+	font-family: Comic Sans MS, sans-serif;
+	font-size: 20px;
+	text-align: left;
+	background-color: #FFD700;
+	padding: 20px;
+	border-radius: 30px;
+	flex: 1;
+	max-width: 55%;
+}
+#Video2 {
+   border: 30px solid #FF2400;
+	place-self: center;
+   border-radius: 30px;
+   margin-top: 40px;
+   margin-left: auto;
+   margin-right: auto;
+	flex: 1;
+	max-width: 40%;
+}
+a button {
+color: black;
+}
+a {
+color: black;
+text-decoration: none;
+}
+ul {
+list-style-type: square;
+}
+.header {
+display: flex;
+justify-content: space-between;
+padding: 30px;
+}
+nav h5 > ul {
+visibility: hidden;
+color: black;
+margin: 2px;
+opacity: 0;
+transform: translateY(-10px);
+transition: opacity 0.2s ease-in-out, transform 0.5s ease-in-out, visibility 0.5s;
+}
+nav h5:hover > ul, nav h5:active > ul {
+visibility: visible;
+width: 500px;
+margin: 2px;
+opacity: 1;
+transform: TranslateY(0);
+}
+.navigation {
+display: flex;
+justify-content: center;
+justify-content: space-evenly;
+width: 100%;
+margin: 0px;
+align-content: center;
+
+}
+.tlA {
+padding: 15px 30px;
+width: 250px;
+font-size: 30px;
+font-family: Comic Sans MS, sans-serif;
+border: none;
+cursor: pointer;
+text-align: center;
+border-radius: 30px;
+background-color: #FF2400; 
+}
+.tlB {
+padding: 15px 30px;
+width: 250px;
+font-size: 30px;
+font-family: Comic Sans MS, sans-serif;
+border: none;
+cursor: pointer;
+text-align: center;
+border-radius: 30px;
+background-color: #FFD700; 
+}
+.tlC {
+padding: 15px 30px;
+width: 250px;
+font-size: 30px;
+font-family: Comic Sans MS, sans-serif;
+border: none;
+cursor: pointer;
+text-align: center;
+border-radius: 30px;
+background-color: #FF2400; 
+}
+.tlD {
+padding: 15px 30px;
+width: 250px;
+margin-top: 60px;
+font-size: 30px;
+font-family: Comic Sans MS, sans-serif;
+border: none;
+cursor: pointer;
+text-align: center;
+border-radius: 30px;
+background-color: #FF2400;
+}
+footer {
+display: inline-flex;
+justify-content: center;
+padding: 10px;
+margin-top: 100px;
+width: 100%;
+background-color: #007FFF;
+font-family: Comic Sans MS, sans-serif;
+}
+#kontakty {
+text-align: left;
+margin: auto;
+}
+#text {
+text-align: right;
+font-weight: bold;
+margin: auto;
+}
